@@ -13,8 +13,8 @@ discovered.
 
 ## Use it
 
-$ pip install feedparser pyquery
-$ python discovery.py quora.source.tsv quora.xml
+    $ pip install feedparser pyquery
+    $ python discovery.py quora.source.tsv quora.xml
 
 And, after a few minutes (it downloads the page, parses it, and then
 attempts to download the discovered? feed, you'll have yourself an 
