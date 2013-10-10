@@ -1,0 +1,728 @@
+<opml version="1.1">
+<head><title>Quora Feeds</title>
+<dateCreated>2013-10-10 06:22:36.131417</dateCreated>
+<dateModified>2013-10-10 06:22:36.131417</dateModified>
+</head>
+<body>
+
+<outline htmlUrl="http://adam.heroku.com/" 
+         text="a tornado of razorblades" 
+         title="a tornado of razorblades" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://adam.heroku.com/feed" />
+
+
+<outline htmlUrl="http://antbits.blogspot.com/" 
+         text="Antony's MySQL bits" 
+         title="Antony's MySQL bits" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://antbits.blogspot.com/feeds/posts/default" />
+
+
+<outline htmlUrl="http://apassant.net/blog/" 
+         text="Alexandre Passant" 
+         title="Alexandre Passant" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://apassant.net/blog/feed/" />
+
+
+<outline htmlUrl="http://astellar.com/" 
+         text="Vlad Fedorkov" 
+         title="Vlad Fedorkov" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://astellar.com/feed/" />
+
+
+<outline htmlUrl="http://attractivechaos.wordpress.com/" 
+         text="Attractive Chaos" 
+         title="Attractive Chaos" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://attractivechaos.wordpress.com/feed/" />
+
+
+<outline htmlUrl="http://bartoszmilewski.wordpress.com" 
+         text="Bartosz Milewski's Programming Cafe" 
+         title="Bartosz Milewski's Programming Cafe" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://bartoszmilewski.com/feed/" />
+
+
+<outline htmlUrl="http://bkiers.blogspot.com/" 
+         text="Bart's blog" 
+         title="Bart's blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://bkiers.blogspot.com/feeds/posts/default" />
+
+
+<outline htmlUrl="http://blog.aggregateknowledge.com/" 
+         text="AK Tech Blog" 
+         title="AK Tech Blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://blog.aggregateknowledge.com/feed/" />
+
+
+<outline htmlUrl="http://blog.catchpoint.com/" 
+         text="Web Performance Monitoring and Optimization" 
+         title="Web Performance Monitoring and Optimization" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://blog.catchpoint.com/feed/" />
+
+
+<outline htmlUrl="http://blog.factual.com/" 
+         text="Factual Blog" 
+         title="Factual Blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://blog.factual.com/feed" />
+
+
+<outline htmlUrl="http://blog.mithis.net/" 
+         text="Mithro rants about stuff" 
+         title="Mithro rants about stuff" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://blog.mithis.net/feed" />
+
+
+<outline htmlUrl="http://blog.moertel.com/" 
+         text="Tom Moertel's Blog" 
+         title="Tom Moertel's Blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://feeds.feedburner.com/TomMoertelsBlog" />
+
+
+<outline htmlUrl="http://blog.sindice.com/" 
+         text="Sindice Blog" 
+         title="Sindice Blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://blog.sindice.com/feed/" />
+
+
+<outline htmlUrl="http://blog.tomayac.com/" 
+         text="blog.tomayac.com Blog von Thomas Steiner homoblogiens" 
+         title="blog.tomayac.com Blog von Thomas Steiner homoblogiens" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://blog.tomayac.com/atom.php" />
+
+
+<outline htmlUrl="http://blog.zawodny.com/" 
+         text="Jeremy Zawodny's blog" 
+         title="Jeremy Zawodny's blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://blog.zawodny.com/feed/" />
+
+
+<outline htmlUrl="http://bramcohen.livejournal.com/" 
+         text="Bram Cohen's Journal" 
+         title="Bram Cohen's Journal" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://bramcohen.livejournal.com/data/rss" />
+
+
+<outline htmlUrl="http://carcaddar.blogspot.com/" 
+         text="a CONS is an object which cares" 
+         title="a CONS is an object which cares" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://carcaddar.blogspot.com/feeds/posts/default" />
+
+
+<outline htmlUrl="http://caseysoftware.com/" 
+         text="CaseySoftware, LLC - Supporters & Developers of web2project blogs" 
+         title="CaseySoftware, LLC - Supporters & Developers of web2project blogs" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://caseysoftware.com/blog/feed" />
+
+
+<outline htmlUrl="http://codeascraft.com/" 
+         text="Code as Craft" 
+         title="Code as Craft" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://codeascraft.com/feed/" />
+
+
+<outline htmlUrl="http://da-data.blogspot.com/" 
+         text="Dave's Data" 
+         title="Dave's Data" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://da-data.blogspot.com/feeds/posts/default" />
+
+
+<outline htmlUrl="http://datacharmer.blogspot.com/" 
+         text="The Data Charmer" 
+         title="The Data Charmer" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://datacharmer.blogspot.com/feeds/posts/default" />
+
+
+<outline htmlUrl="http://dbmsmusings.blogspot.com/" 
+         text="DBMS Musings" 
+         title="DBMS Musings" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://dbmsmusings.blogspot.com/feeds/posts/default" />
+
+
+<outline htmlUrl="http://derickrethans.nl/" 
+         text="Derick Rethans" 
+         title="Derick Rethans" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://derickrethans.nl/feed.xml" />
+
+
+<outline htmlUrl="http://developers-blog.helloreverb.com/" 
+         text="Reverb Developer Blog" 
+         title="Reverb Developer Blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://developers-blog.helloreverb.com/feed/" />
+
+
+<outline htmlUrl="http://ejohn.org/blog/" 
+         text="John Resig" 
+         title="John Resig" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://feeds.feedburner.com/JohnResig" />
+
+
+<outline htmlUrl="http://eli.thegreenplace.net/" 
+         text="Eli Bendersky's website" 
+         title="Eli Bendersky's website" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://eli.thegreenplace.net/feed/" />
+
+
+<outline htmlUrl="http://embeddedgurus.com/" 
+         text="Embedded Gurus - Experts on Embedded Software" 
+         title="Embedded Gurus - Experts on Embedded Software" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://embeddedgurus.com/feed/" />
+
+
+<outline htmlUrl="http://engineering.linkedin.com/blog" 
+         text="LinkedIn Engineering - Blog" 
+         title="LinkedIn Engineering - Blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://engineering.linkedin.com/taxonomy/term/1/feed" />
+
+
+<outline htmlUrl="http://fastcompression.blogspot.fr/" 
+         text="RealTime Data Compression" 
+         title="RealTime Data Compression" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://fastcompression.blogspot.com/feeds/posts/default" />
+
+
+<outline htmlUrl="http://highlyscalable.wordpress.com/" 
+         text="Highly Scalable Blog" 
+         title="Highly Scalable Blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://highlyscalable.wordpress.com/feed/" />
+
+
+<outline htmlUrl="http://hughewilliams.com/" 
+         text="Hugh E. Williams" 
+         title="Hugh E. Williams" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://hughewilliams.com/feed/" />
+
+
+<outline htmlUrl="http://hunch.net/" 
+         text="Machine Learning (Theory)" 
+         title="Machine Learning (Theory)" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://hunch.net/?feed=rss2" />
+
+
+<outline htmlUrl="http://ilia.ws/" 
+         text="iBlog - Ilia Alshanetsky" 
+         title="iBlog - Ilia Alshanetsky" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://ilia.ws/feeds/index.rss2" />
+
+
+<outline htmlUrl="http://jasonsirota.com/" 
+         text="Jason Sirota" 
+         title="Jason Sirota" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://jasonsirota.com/feed" />
+
+
+<outline htmlUrl="http://k2code.blogspot.in/" 
+         text="KodeKnight" 
+         title="KodeKnight" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://k2code.blogspot.com/feeds/posts/default" />
+
+
+<outline htmlUrl="http://karwin.blogspot.com/" 
+         text="Keeping it Simple" 
+         title="Keeping it Simple" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://karwin.blogspot.com/feeds/posts/default" />
+
+
+<outline htmlUrl="http://laughingmeme.org/" 
+         text="Laughing Meme" 
+         title="Laughing Meme" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://laughingmeme.org/feed" />
+
+
+<outline htmlUrl="http://lingpipe-blog.com/" 
+         text="LingPipe Blog" 
+         title="LingPipe Blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://lingpipe-blog.com/feed/" />
+
+
+<outline htmlUrl="http://lojic.com/blog/" 
+         text="Lojic Technologies" 
+         title="Lojic Technologies" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://blog.lojic.com/feed/" />
+
+
+<outline htmlUrl="http://lukaszwrobel.pl/" 
+         text="Lukasz Wrobel - Blog" 
+         title="Lukasz Wrobel - Blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://lukaszwrobel.pl/rss" />
+
+
+<outline htmlUrl="http://manu.sporny.org/" 
+         text="The Beautiful, Tormented Machine" 
+         title="The Beautiful, Tormented Machine" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://manu.sporny.org/feed/" />
+
+
+<outline htmlUrl="http://matpalm.com/blog/" 
+         text="brain of mat kelcey" 
+         title="brain of mat kelcey" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://matpalm.com/blog/feed" />
+
+
+<outline htmlUrl="http://maxoffsky.com/" 
+         text="Maxoffsky" 
+         title="Maxoffsky" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://maxoffsky.com/feed/" />
+
+
+<outline htmlUrl="http://mechanical-sympathy.blogspot.com/" 
+         text="Mechanical Sympathy" 
+         title="Mechanical Sympathy" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://mechanical-sympathy.blogspot.com/feeds/posts/default" />
+
+
+<outline htmlUrl="http://mikefrank.wordpress.com/" 
+         text="Mike Frank's Blog" 
+         title="Mike Frank's Blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://mikefrank.wordpress.com/feed/" />
+
+
+<outline htmlUrl="http://mitchellh.com/" 
+         text="Mitchell Hashimoto" 
+         title="Mitchell Hashimoto" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://feeds.feedburner.com/mitchellh" />
+
+
+<outline htmlUrl="http://mualanhlung017.wordpress.com/" 
+         text="mualanhlung017" 
+         title="mualanhlung017" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://mualanhlung017.wordpress.com/feed/" />
+
+
+<outline htmlUrl="http://mwop.net/blog.html" 
+         text="Blog Entries :: phly, boy, phly" 
+         title="Blog Entries :: phly, boy, phly" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://mwop.net/blog-atom.xml" />
+
+
+<outline htmlUrl="http://myprogrammingblog.com/" 
+         text="My Programming Blog" 
+         title="My Programming Blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://myprogrammingblog.com/feed/" />
+
+
+<outline htmlUrl="http://nathanmarz.com/" 
+         text="thoughts from the red planet" 
+         title="thoughts from the red planet" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://feeds.feedburner.com/ThoughtsFromTheRedPlanet" />
+
+
+<outline htmlUrl="http://natishalom.typepad.com/nati_shaloms_blog/gigaspaces/" 
+         text="Nati Shalom's Blog" 
+         title="Nati Shalom's Blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://natishalom.typepad.com/nati_shaloms_blog/atom.xml" />
+
+
+<outline htmlUrl="http://nichol.as/" 
+         text="Nicholas Piël" 
+         title="Nicholas Piël" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://nichol.as/feed" />
+
+
+<outline htmlUrl="http://paulscott.co.za/blog/" 
+         text="Paul Scott" 
+         title="Paul Scott" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://paulscott.co.za/blog/feed/" />
+
+
+<outline htmlUrl="http://perfcap.blogspot.com/" 
+         text="Adrian Cockcroft's Blog" 
+         title="Adrian Cockcroft's Blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://perfcap.blogspot.com/feeds/posts/default" />
+
+
+<outline htmlUrl="http://petr-mitrichev.blogspot.com/" 
+         text="Algorithm problems for dummies: Petr Mitrichev's blog" 
+         title="Algorithm problems for dummies: Petr Mitrichev's blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://petr-mitrichev.blogspot.com/feeds/posts/default" />
+
+
+<outline htmlUrl="http://practical-netkernel.blogspot.com/" 
+         text="Practical NetKernel" 
+         title="Practical NetKernel" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://practical-netkernel.blogspot.com/feeds/posts/default" />
+
+
+<outline htmlUrl="http://research.swtch.com/" 
+         text="research!rsc" 
+         title="research!rsc" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://research.swtch.com/feed.atom" />
+
+
+<outline htmlUrl="http://sauceio.com/" 
+         text="Selenium Testing? Do Cross Browser Testing with Sauce Labs" 
+         title="Selenium Testing? Do Cross Browser Testing with Sauce Labs" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://sauceio.com/index.php/feed/" />
+
+
+<outline htmlUrl="http://scale-out-blog.blogspot.com/" 
+         text="The Scale-Out Blog" 
+         title="The Scale-Out Blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://scale-out-blog.blogspot.com/feeds/posts/default" />
+
+
+<outline htmlUrl="http://sphinxsearch.com/blog/" 
+         text="full-text diary" 
+         title="full-text diary" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://www.sphinxsearch.com/blog/feed/rss" />
+
+
+<outline htmlUrl="http://stevehanov.ca/" 
+         text="Steve Hanov's Programming Blog" 
+         title="Steve Hanov's Programming Blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://stevehanov.ca/blog/?atom" />
+
+
+<outline htmlUrl="http://sujitpal.blogspot.com/" 
+         text="Salmon Run" 
+         title="Salmon Run" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://sujitpal.blogspot.com/feeds/posts/default" />
+
+
+<outline htmlUrl="http://techblog.netflix.com/" 
+         text="The Netflix Tech Blog" 
+         title="The Netflix Tech Blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://techblog.netflix.com/feeds/posts/default" />
+
+
+<outline htmlUrl="http://tom.preston-werner.com/" 
+         text="Tom Preston-Werner" 
+         title="Tom Preston-Werner" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://feeds.feedburner.com/tom-preston-werner" />
+
+
+<outline htmlUrl="http://venublog.com/" 
+         text="Venu Anuganti Blog | Venu Anuganti Blog" 
+         title="Venu Anuganti Blog | Venu Anuganti Blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://venublog.com/feed" />
+
+
+<outline htmlUrl="http://www.catonmat.net/" 
+         text="good coders code, great reuse" 
+         title="good coders code, great reuse" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://www.catonmat.net/feed/" />
+
+
+<outline htmlUrl="http://www.dr-josiah.com/" 
+         text="A Dash of Technology" 
+         title="A Dash of Technology" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://www.dr-josiah.com/feeds/posts/default" />
+
+
+<outline htmlUrl="http://www.ebaytechblog.com/" 
+         text="eBay Tech Blog" 
+         title="eBay Tech Blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://www.ebaytechblog.com/feed/" />
+
+
+<outline htmlUrl="http://www.eschrade.com/" 
+         text="ESchrade" 
+         title="ESchrade" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://www.eschrade.com/feed/" />
+
+
+<outline htmlUrl="http://www.gizmola.com/blog/" 
+         text="GizmoLA.com" 
+         title="GizmoLA.com" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://www.gizmola.com/blog/feeds/index.rss2" />
+
+
+<outline htmlUrl="http://www.igvita.com/" 
+         text="igvita.com" 
+         title="igvita.com" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://www.igvita.com/feed/" />
+
+
+<outline htmlUrl="http://www.jeff-barr.com/" 
+         text="Jeff Barr's Blog" 
+         title="Jeff Barr's Blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://www.jeff-barr.com/?feed=rss2" />
+
+
+<outline htmlUrl="http://www.joelonsoftware.com/" 
+         text="Joel on Software" 
+         title="Joel on Software" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://www.joelonsoftware.com/rss.xml" />
+
+
+<outline htmlUrl="http://www.johndcook.com/blog/" 
+         text="The Endeavour" 
+         title="The Endeavour" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://www.johndcook.com/blog/feed/" />
+
+
+<outline htmlUrl="http://www.michaelnielsen.org/ddi/" 
+         text="DDI" 
+         title="DDI" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://www.michaelnielsen.org/ddi/feed/" />
+
+
+<outline htmlUrl="http://www.mysqlperformanceblog.com/" 
+         text="MySQL Performance Blog" 
+         title="MySQL Performance Blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://www.mysqlperformanceblog.com/feed/" />
+
+
+<outline htmlUrl="http://www.nczonline.net/blog/" 
+         text="NCZOnline" 
+         title="NCZOnline" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://feeds.nczonline.net/blog/" />
+
+
+<outline htmlUrl="http://www.papayasoft.com/" 
+         text="PapayaSoft - Phuket web development" 
+         title="PapayaSoft - Phuket web development" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://feeds.feedburner.com/papayasoft" />
+
+
+<outline htmlUrl="http://www.phpied.com/" 
+         text="phpied.com" 
+         title="phpied.com" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://www.phpied.com/feed/" />
+
+
+<outline htmlUrl="http://www.sergeychernyshev.com/blog/" 
+         text="Binary Orders of Magnitude" 
+         title="Binary Orders of Magnitude" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://www.sergeychernyshev.com/blog/feed/" />
+
+
+<outline htmlUrl="http://www.sheeri.com/" 
+         text="Sheeri Dot Com" 
+         title="Sheeri Dot Com" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://www.sheeri.org/feed/" />
+
+
+<outline htmlUrl="http://www.strchr.com/" 
+         text="strchr.com updates" 
+         title="strchr.com updates" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://www.strchr.com/?feed=/" />
+
+
+<outline htmlUrl="http://www.subbu.org/" 
+         text="subbu.org" 
+         title="subbu.org" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://feeds.feedburner.com/SubbuDotOrg" />
+
+
+<outline htmlUrl="http://www.tbray.org/ongoing/" 
+         text="ongoing by Tim Bray" 
+         title="ongoing by Tim Bray" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://www.tbray.org/ongoing/ongoing.atom" />
+
+
+<outline htmlUrl="http://www.tonicebrian.com/" 
+         text="Toni Cebrián" 
+         title="Toni Cebrián" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://www.tonicebrian.com/feed/" />
+
+
+<outline htmlUrl="http://www.victortsaran.net/" 
+         text="Victor Tsaran | guitars | music | technology | and more" 
+         title="Victor Tsaran | guitars | music | technology | and more" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://www.victortsaran.net/rss.xml" />
+
+
+<outline htmlUrl="http://www.xaprb.com/blog/" 
+         text="Xaprb" 
+         title="Xaprb" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="http://www.xaprb.com/blog/feed/" />
+
+
+<outline htmlUrl="https://blog.twitter.com/engineering" 
+         text="Engineering" 
+         title="Engineering" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="https://blog.twitter.com/api/blog.rss?name=engineering" />
+
+
+<outline htmlUrl="https://ocaml.janestreet.com/" 
+         text="ocaml.janestreet.com - Comments" 
+         title="ocaml.janestreet.com - Comments" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="https://ocaml.janestreet.com/?q=crss" />
+
+
+<outline htmlUrl="https://tech.dropbox.com/" 
+         text="Dropbox Tech Blog" 
+         title="Dropbox Tech Blog" 
+         type="rss" 
+         version="RSS" 
+         xmlUrl="https://tech.dropbox.com/feed/" />
+
+</body>
+</opml>
