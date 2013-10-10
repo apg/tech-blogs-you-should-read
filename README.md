@@ -6,9 +6,9 @@ on Quora (this almost never happens), which asked which are the best
 tech focused blogs to read. Well, links are great, but being able to
 just flat out import them into my reader is even better. So, off I
 went, in the wee hours of the night to discover the RSS/Atom feeds for
-them. But, of course, why should I do manual work when <link
-rel="alternate"... /> exists? Doesn't everyone use that? Well, as it
-turns out no. But, see quora.source.log for which feeds weren't
+them. But, of course, why should I do manual work when &lt;link
+rel="alternate"... /&gt;exists? Doesn't everyone use that? Well, as it
+turns out no. But, see output.log for which feeds weren't
 discovered.
 
 ## Use it
